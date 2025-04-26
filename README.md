@@ -14,6 +14,7 @@
    - Create a new project folder called `react-assignment`.
    - Initialize a React app and configure Tailwind CSS.
    - Ensure the project is properly structured with organized components.
+   - ...
 
 2. **Project Structure:**
 
